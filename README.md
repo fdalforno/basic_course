@@ -8,3 +8,8 @@ Qui sotto l'elenco delle lezioni:
 + [Algoritmi](https://colab.research.google.com/github/fdalforno/basic_course/blob/main/05%20-%20Algoritmi.ipynb)
 
 Le lezioni prendono spunto dal libro di Sebastian Raschka (python machine learning)
+
+
+
+conda update -n base conda
+conda update --all
